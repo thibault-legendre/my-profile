@@ -1,0 +1,88 @@
+body { 
+	background-color:#6b72e145;
+	color: rgb(30,30,30);
+	font-family: 'ZCOOL XiaoWei', serif;
+	font-weight: bold;
+	font-size: 17px; 
+}
+div{
+	width: 700px;
+	margin:10px auto;
+	padding: 10px;
+	border-radius: 5px;
+	text-align: center;
+
+}
+
+
+h1,h2 { 
+	font-family: 'Varela Round', sans-serif;
+	
+
+
+}  
+
+h1 { 
+	color:#003e80ad;
+	font-weight: 200;
+	letter-spacing: 4px;
+	font-size: 60px;
+
+}
+
+h2 { 
+	color:#3329bbe8;
+	font-size: 24px
+	font-weight: lighter;
+}
+
+a { 
+	text-decoration: none;
+	color: #6B72E1;
+
+}
+
+
+
+.container { 
+	width: 700px
+	margin: 40px auto;
+}
+
+.card-white {
+	background-color: white;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+	border-radius: 10px;
+	margin: 20px 0px;
+	text-align: center;
+}
+.btn-blue{
+	background-color: #6B72E1
+	color: white ;
+	padding:15px 20px;
+	border-radius: 4px
+}
+.btn-blue: hover {
+	background-color: black;
+	color: white;
+
+}
+.list-inline {
+	 list-style: none;
+	 padding-left:0px;
+
+}
+
+.list-inline li{
+	display: inline;
+	padding: 10px;
+}
+.list-inline i {
+	font-size: 50px; 
+	color: rgb(230,230,230);
+}
+#introduction p {
+	 margin-bottom: 40px;
+	 
+}
